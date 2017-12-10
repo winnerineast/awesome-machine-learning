@@ -27,6 +27,8 @@ Podcasts
 Data Science / Statistics
 -------------------------
 
+https://ahmedbesbes.com/
+
 https://jeremykun.com/
 
 http://iamtrask.github.io/
@@ -79,7 +81,7 @@ http://www.sumsar.net/
 
 https://www.countbayesie.com
 
-http://karpathy.github.io/
+http://karpathy.github.io/  https://medium.com/@karpathy
 
 http://blog.kaggle.com/
 
@@ -92,6 +94,12 @@ http://www.randalolson.com/blog/
 https://www.johndcook.com/blog/r_language_for_programmers/
 
 http://www.dataschool.io/
+
+http://www.datasciencecentral.com
+
+https://mubaris.com
+
+https://distill.pub
 
 Math
 ----
@@ -106,6 +114,9 @@ https://petewarden.com/
 
 http://mrtz.org/blog/
 
+https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/videos
+
+https://www.youtube.com/channel/UCr22xikWUK2yUW4YxOKXclQ/videos
 
 Security Related
 ----------------
