@@ -68,14 +68,13 @@ The following is a list of free, open source books on machine learning, statisti
 * [Introduction to statistical thought](http://people.math.umass.edu/~lavine/Book/book.pdf)
 * [Basic Probability Theory](http://www.math.uiuc.edu/~r-ash/BPT/BPT.pdf)
 * [Introduction to probability](https://math.dartmouth.edu/~prob/prob/prob.pdf) - By Dartmouth College
-* [Principle of Uncertainty](http://uncertainty.stat.cmu.edu/wp-content/uploads/2011/05/principles-of-uncertainty.pdf)
+* [Principle of Uncertainty](http://www.stat.cmu.edu/~kadane/principles.pdf)
 * [Probability & Statistics Cookbook](http://statistics.zone/)
-* [Advanced Data Analysis From An Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf)
+* [Advanced Data Analysis From An Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf) - Book
 * [Introduction to Probability](http://athenasc.com/probbook.html) -  Book and course by MIT
-* [The Elements of Statistical Learning: Data Mining, Inference, and Prediction.](http://statweb.stanford.edu/~tibs/ElemStatLearn/) - Book
+* [The Elements of Statistical Learning: Data Mining, Inference, and Prediction.](https://web.stanford.edu/~hastie/ElemStatLearn/) - Book
 * [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/) - Book
-* [Learning Statistics Using R](http://health.adelaide.edu.au/psychology/ccs/teaching/lsr/)
-* [Introduction to Probability and Statistics Using R](https://cran.r-project.org/web/packages/IPSUR/vignettes/IPSUR.pdf) - Book
+* [Introduction to Probability and Statistics Using R](http://ipsur.r-forge.r-project.org/book/download/IPSUR.pdf) - Book
 * [Advanced R Programming](http://adv-r.had.co.nz) - Book
 * [Practical Regression and Anova using R](http://cran.r-project.org/doc/contrib/Faraway-PRA.pdf) - Book
 * [R practicals](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/R/practicalsBookNoAns.pdf) - Book
@@ -86,5 +85,5 @@ The following is a list of free, open source books on machine learning, statisti
 * [Linear Algebra Done Wrong](http://www.math.brown.edu/~treil/papers/LADW/LADW.html)
 * [Linear Algebra, Theory, and Applications](https://math.byu.edu/~klkuttle/Linearalgebra.pdf)
 * [Convex Optimization](http://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
-* [Applied Numerical Computing](http://www.seas.ucla.edu/~vandenbe/103/reader.pdf)
+* [Applied Numerical Computing](http://www.seas.ucla.edu/~vandenbe/ee133a.html)
 * [Applied Numerical Linear Algebra](http://egrcc.github.io/docs/math/applied-numerical-linear-algebra.pdf)

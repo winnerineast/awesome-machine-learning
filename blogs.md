@@ -24,6 +24,8 @@ Podcasts
 
 [TWIMLAI](https://twimlai.com/shows/)
 
+[Machine Learning Guide](http://ocdevel.com/podcasts/machine-learning)
+
 Data Science / Statistics
 -------------------------
 
@@ -100,6 +102,10 @@ http://www.datasciencecentral.com
 https://mubaris.com
 
 https://distill.pub
+
+http://blog.shakirm.com/
+
+http://www.cs.ox.ac.uk/people/yarin.gal/website/blog.html
 
 Math
 ----
